@@ -2,7 +2,7 @@
 #
 plugin_name=lathe
 plugin_type=south
-plugin_install_dirname=lathe
+plugin_install_dirname=lathesim
 
 # Now build up the runtime requirements list. This has 3 components
 #   1. Generic packages we depend on in all architectures and package managers
